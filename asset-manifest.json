@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/foodie-react.git/static/css/main.93b31c08.css",
+    "main.js": "/foodie-react.git/static/js/main.feeed821.js",
+    "static/media/Sushi2.png": "/foodie-react.git/static/media/Sushi2.8d26c14f56d97f24785a.png",
+    "static/media/Sushi1.png": "/foodie-react.git/static/media/Sushi1.6295344366fa52c41472.png",
+    "static/media/Nicong1.png": "/foodie-react.git/static/media/Nicong1.e82e1aab525727dbd0e8.png",
+    "static/media/home-banner-background.png": "/foodie-react.git/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/foodie-react.git/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/foodie-react.git/index.html",
+    "main.93b31c08.css.map": "/foodie-react.git/static/css/main.93b31c08.css.map",
+    "main.feeed821.js.map": "/foodie-react.git/static/js/main.feeed821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b31c08.css",
+    "static/js/main.feeed821.js"
+  ]
+}
